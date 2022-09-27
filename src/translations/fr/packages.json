@@ -1,0 +1,15 @@
+{
+  "remove": "Supprimer",
+  "install": "Installer",
+  "fetching": "Récupération des extensions...",
+  "installationFailed": "Erreur lors de l'installation de l'extension :",
+  "labelRepo": "Repo",
+  "labelPackages": "Extensions",
+  "labelAll": "Tous",
+  "installed": "Installé",
+  "labelSearch": "Rechercher...",
+  "name": "Nom",
+  "version": "Version",
+  "description": "Description",
+  "matchCount": "{{count}} extensions ont été trouvées"
+}

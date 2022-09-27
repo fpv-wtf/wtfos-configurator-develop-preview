@@ -1,0 +1,21 @@
+{
+  "footerIssue": "Ak narazíte na nejaké problémy, prosím",
+  "footerIssueLink": "nahláste ich na github",
+  "menuHome": "Domov",
+  "menuPackageManager": "Správca balíčkov",
+  "menuStartup": "Štart",
+  "menuCli": "CLI",
+  "menuWtfos": "WTFOS",
+  "menuRoot": "Root",
+  "menuAbout": "O fpv.wtf",
+  "titleHome": "Domov",
+  "titleCli": "CLI",
+  "titlePackages": "Balíčky",
+  "titleStartup": "Štart",
+  "titleAbout": "O fpv.wtf",
+  "titleRoot": "Root",
+  "titleWtfos": "WTFOS",
+  "titleWtfosUpdate": "WTFOS - Aktualizácia",
+  "titleWtfosInstall": "WTFOS - Inštalácia",
+  "titleWtfosRemove": "WTFOS - Odstránenie"
+}

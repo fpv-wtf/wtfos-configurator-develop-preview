@@ -1,0 +1,17 @@
+{
+  "availableLanguages": {
+    "de": "Deutsch",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt-PT": "Português (Portugal)",
+    "pt-BR": "Português (Brasil)",
+    "ru": "Русский",
+    "sv": "Svenska",
+    "tr": "Türkçe",
+    "zh-CN": "简体中文"
+  },
+  "defaultLanguage": "en"
+}

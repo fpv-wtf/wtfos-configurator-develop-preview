@@ -1,0 +1,19 @@
+{
+  "connected": "Úspešne pripojený do vašeho zariadenia.",
+  "tilePackageManagerTitle": "Správca balíčkov",
+  "tilePackageManagerDescription": "Rozšírte funkčnosť svojho zariadenia inštaláciou ďalších balíčkov vyvinutých komunitou.",
+  "tileStartupTitle": "Štart",
+  "tileStartupDescription": "Spravujte služby, ktoré by sa mali automaticky spustiť po zapnutí zariadenia.",
+  "tileCliTitle": "CLI",
+  "tileCliDescription": "Interaktívna Shell relácia. Spúšťajte príkazy, avšak mali by ste vedieť, čo robíte.",
+  "tileWtfosTitle": "WTFOS",
+  "tileWtfosDescription": "Nainštalujte, spravujte alebo odstráňte wtfos - operačný systém pre komunitou prispievané funkcie.",
+  "tileRootTitle": "Root",
+  "tileRootDescription": "Pred inštaláciou wtfos budete musieť rootnuť vaše zariadenie!",
+  "tileSupportTitle": "Podpora",
+  "tileSupportDescription": "Ak máte akúkoľvek spätnú väzbu, otázky alebo chcete prispieť nejakou funkcionalitou, pripojte sa k našej komunite na Discorde.",
+  "tileAboutTitle": "O fpv.wtf",
+  "tileAboutDescription": "fpv.wtf je skupina nadšencov pracujúca na zlepšení digitálneho FPV zážitku.",
+  "tileWikiTitle": "Wiki",
+  "tileWikiDescription": "Máte problémy? Možné odpovede nájdete na našej komunitnej Wiki."
+}

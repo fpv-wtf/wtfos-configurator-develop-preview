@@ -1,0 +1,15 @@
+{
+  "remove": "Odstrániť",
+  "install": "Inštalovať",
+  "fetching": "Sťahujem balíčky...",
+  "installationFailed": "Chyba počas inštalácie balíčku:",
+  "labelRepo": "Repozitár",
+  "labelPackages": "Balíčky",
+  "labelAll": "Všetky",
+  "installed": "Nainštalované",
+  "labelSearch": "Hľadať...",
+  "name": "Názov",
+  "version": "Verzia",
+  "description": "Popis",
+  "matchCount": "Nájdených {{count}} balíčkov"
+}
