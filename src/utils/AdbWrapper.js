@@ -775,7 +775,8 @@ export default class AdbWrapper {
       return;
     }
 
-    if(fileExists(this.wtfos.bin.adbRemoval)) {
+    const runAdbRemoval = await this.fileExists(this.wtfos.bin.adbRemoval);
+    if(runAdbRemoval) {
       statusCallback("Removing ADB...");
       output = await this.executeCommand([
         this.wtfos.bin.adbRemoval,
